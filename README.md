@@ -1,5 +1,5 @@
-economics glossary 
-a simple glossary page
+Economics Glossary
+Find definitions here:
 
 <!--DOCUTUPE html>
 <html>
