@@ -1,4 +1,5 @@
 economics glossary 
+a simple glossary page
 
 <!DOCUTUPE html>
 <html>
