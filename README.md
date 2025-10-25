@@ -1,11 +1,51 @@
 economics glossary 
 a simple glossary page
 
-<!DOCUTUPE html>
+<!--DOCUTUPE html>
 <html>
 <head>
-
-<main>
     <title>Economics Glossary</title>
+</head>
+
+<body>
+    <main>
         <h1>Economics Glossary</h1>
 
+        <form>
+        <input input="text" placeholder="Find definitions"
+        <button type="submit">Go</button>
+        </form>
+        <img src="img url here" alt="curious boy holding binoculars">
+
+<!--Table of Contents-->
+<div class="toc">
+    <a href="#letter-a"<strong>A</strong></a>
+    <a href="#letter-b"<strong>B</strong></a>
+    <a href="letter-c"<strong>C</strong></a>
+    <a href="ketter-d"<strong>D</strong></a>
+    <a href="letter-e"<strong>E</strong></a>
+    <a href="letter-f"<strong>F</strong></a>
+    <a href="#letter-g"<strong>G</strong></a>
+    <a href="#letter-h"<strong>H</strong></a>
+    <a href="#letter-i"<strong>I</strong></a>
+    <a href="#letter-j"<strong>J</strong></a>
+    <a href="#letter-k"<strong>K</strong></a>
+    <a href="#letter-l"<strong>L</strong></a>
+    <a href="#letter-m"<strong>M</strong></a>
+    <a href="#letter-n"<strong>N</strong></a>
+    <a href="#letter-o"<strong>O</strong></a>
+    <a href="#letter-p"<strong>P</strong></a>
+    <a href="#letter-q"<strong>Q</strong></a>
+    <a href="#letter-r"<strong>R</strong></a>
+    <a href="#letter-s"<strong>S</strong></a>
+    <a href="#letter-t"<strong>T</strong></a>
+    <a href="#letter-u"<strong>U</strong></a>
+    <a href="#letter-v"<strong>V</strong></a>
+    <a href="#letter-w"<strong>W</strong></a>
+    <a href="#letter-x"<strong>X</strong></a>
+    <a href="#letter-y"<strong>Y</strong></a>
+    <a href="#letter-z"<strong>Z</strong></a>
+
+        <h2><strong>A</strong>
+        <p><strong>Aggregate Demand</strong>
+            <a href="#Aggregate-Demand">Definition of Aggregate Demand>
